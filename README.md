@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuxharma&label=Profile%20views&color=1692df&style=flat-square" alt="ayuxharma" /> </p>
 
-- 🌱 I’m currently learning **Oracle Integration Cloud and APEX**
+I’m currently learning **Oracle Integration Cloud** and **APEX**.
 
 
 <div align="left">
