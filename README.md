@@ -70,7 +70,8 @@ I’m currently learning **Oracle Integration Cloud** and **APEX**.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuxharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=codeSTACKr&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuxharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ayuxharma&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
