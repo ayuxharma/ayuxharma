@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! , I'm Ayush!</h1>
+<h1 align="center">Hi , I'm Ayush!</h1>
 <h3 align="center">Associate Engineer at Oracle, CSS Global Saas & Apps Delivery</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuxharma&label=Profile%20views&color=1692df&style=flat-square" alt="ayuxharma" /> </p>
