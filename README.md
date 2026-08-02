@@ -24,7 +24,7 @@ I build fast, test on real users, and kill what doesn't work.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
+**[autobroll](https://github.com/ayuxharma/Simple-HTTP-Server)** &nbsp;·&nbsp; <samp>cpp, remotion</samp><br>
 AI short-form video editor in the browser. Auto captions with accents,<br>
 drag-and-retime editing, b-roll placement: transcript in, rendered video out.
 
