@@ -4,25 +4,23 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+
+[instagram](https://www.instagram.com/ayushh.jpg/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/sharma-ayushhh/) &nbsp;·&nbsp;
+[email](mailto:ayush.nitsgr@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
+> Associate Software Engineer at Oracle.<br>
 > Small, sharp tools over big vague ideas.
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+I build fast, test on real users, and kill what doesn't work.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>Python &nbsp; C++ &nbsp; FastAPI &nbsp; React &nbsp; node &nbsp; PL/ SQL &nbsp; Oracle Integration Cloud &nbsp; Postgres &nbsp; Docker &nbsp; Git &nbsp; Postman</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
