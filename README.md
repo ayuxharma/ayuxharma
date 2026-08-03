@@ -13,13 +13,13 @@
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 > Associate Software Engineer at Oracle.<br>
-> Small, sharp tools over big vague ideas.
+> git commit -m "idk why this works but don't touch it"
 
 I build fast, test on real users, and kill what doesn't work.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>Python &nbsp; C++ &nbsp; FastAPI &nbsp; React &nbsp; node &nbsp; PL/ SQL &nbsp; Oracle Integration Cloud &nbsp; Postgres &nbsp; Docker &nbsp; Git &nbsp; Postman</samp>
+<samp>Python &nbsp; Java &nbsp; C++ &nbsp; Assembly &nbsp; FastAPI &nbsp; React &nbsp; APEX &nbsp; PL/ SQL &nbsp; Oracle Cloud Infrastructure (OCI) &nbsp; Oracle Integration Cloud &nbsp; Postgres &nbsp; Docker &nbsp; Kubernetes &nbsp; Git &nbsp; REST APIs &nbsp; SOAP UI &nbsp; RAG &nbsp; LLMs &nbsp; Grafana &nbsp; Postman</samp>
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
