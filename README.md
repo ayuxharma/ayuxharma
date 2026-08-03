@@ -1,5 +1,3 @@
-<div align="left">
-  
 ![Profile views](https://komarev.com/ghpvc/?username=ayuxharma&color=blue&style=flat)
 
 <div align="center">
