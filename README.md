@@ -19,7 +19,7 @@ I build fast, test on real users, and kill what doesn't work.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>Python &nbsp; Java &nbsp; C++ &nbsp; Assembly &nbsp; FastAPI &nbsp; React &nbsp; APEX &nbsp; PL/ SQL &nbsp; Oracle Cloud Infrastructure (OCI) &nbsp; Oracle Integration Cloud &nbsp; Postgres &nbsp; Docker &nbsp; Kubernetes &nbsp; Git &nbsp; REST APIs &nbsp; SOAP UI &nbsp; RAG &nbsp; LLMs &nbsp; Grafana &nbsp; Postman</samp>
+<samp>C++ &nbsp; Python &nbsp; Java &nbsp; Spring Boot &nbsp; Assembly &nbsp; FastAPI &nbsp; React &nbsp; APEX &nbsp; PL/ SQL &nbsp; Oracle Cloud Infrastructure (OCI) &nbsp; Oracle Integration Cloud &nbsp; Postgres &nbsp; Docker &nbsp; Kubernetes &nbsp; Git &nbsp; REST APIs &nbsp; SOAP UI &nbsp; RAG &nbsp; LLMs &nbsp; Grafana &nbsp; Postman</samp>
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
