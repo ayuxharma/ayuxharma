@@ -15,7 +15,7 @@
 > Associate Software Engineer at Oracle.<br>
 > git commit -m "idk why this works but don't touch it"
 
-I build fast, test on real users, and kill what doesn't work.
+If it's not solving a real problem, it's just cosplay with extra steps.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
