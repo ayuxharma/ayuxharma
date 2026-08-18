@@ -6,7 +6,8 @@
 
 [instagram](https://www.instagram.com/ayushh.jpg/) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/sharma-ayushhh/) &nbsp;·&nbsp;
-[email](mailto:ayush.nitsgr@gmail.com)
+[email](mailto:ayush.nitsgr@gmail.com) &nbsp;·&nbsp;
+[portfolio](https://ayuxharma.github.io/portfolio)
 
 </div>
 
