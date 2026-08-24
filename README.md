@@ -20,7 +20,7 @@ If it's not solving a real problem, it's just cosplay with extra steps.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>C++ &nbsp; Python &nbsp; Java &nbsp; Spring Boot &nbsp; Assembly &nbsp; FastAPI &nbsp; React &nbsp; APEX &nbsp; PL/ SQL &nbsp; Oracle Cloud Infrastructure (OCI) &nbsp; Oracle Integration Cloud &nbsp; Postgres &nbsp; Docker &nbsp; Kubernetes &nbsp; Git &nbsp; REST APIs &nbsp; SOAP UI &nbsp; RAG &nbsp; LLMs &nbsp; Grafana &nbsp; Postman</samp>
+<samp>C++ &nbsp; Python &nbsp; Assembly &nbsp; LangGraph &nbsp; Redis  &nbsp; FastAPI &nbsp; React &nbsp; APEX &nbsp; PL/ SQL &nbsp; Oracle Cloud Infrastructure (OCI) &nbsp; Oracle Integration Cloud (OIC) &nbsp; Postgres &nbsp; Docker &nbsp; Kubernetes &nbsp; Git &nbsp; REST APIs &nbsp; SOAP UI &nbsp; RAG &nbsp; LLMs &nbsp; CI/CD &nbsp; Datadog &nbsp; Grafana &nbsp; Postman</samp>
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
